@@ -1,10 +1,8 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
-## Aim:
-       To Interface a Digital output (LED) to ARM development board and write a blink code 
-## Components required: 
-        STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
+## Aim:To Interface a Digital output (LED) to ARM development board and write a blink code 
+## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
 The full form of an ARM is an advanced reduced instruction set computer (RISC) machine, and it is a 32-bit processor architecture expanded by ARM holdings. The applications of an ARM processor include several microcontrollers as well as processors. The architecture of an ARM processor was licensed by many corporations for designing ARM processor-based SoC products and CPUs. This allows the corporations to manufacture their products using ARM architecture. Likewise, all main semiconductor companies will make ARM-based SOCs such as Samsung, Atmel, TI etc.
 
@@ -225,7 +223,8 @@ void assert_failed(uint8_t *file, uint32_t line)
  ![IMG-20230314-WA0008 (1)](https://user-images.githubusercontent.com/128414844/226435477-5b9f44cb-d9cb-49b4-8df1-d42cb4a3f757.jpg)
 
 LED is ON:
-![IMG-20230314-WA0009 (1)](https://user-images.githubusercontent.com/128414844/226435802-473fe261-6e77-47a8-9101-ff53c70c6da0.jpg)
+![IMG-20230314-WA0008 (1)](https://user-images.githubusercontent.com/128414844/226436960-bf46de71-c930-4bd3-a070-4b5d995ee421.jpg)
+
 
 ## Result :
 
