@@ -219,13 +219,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- LED is OFF:
  
- ![IMG-20230314-WA0008 (2)](https://user-images.githubusercontent.com/128414844/226513439-8a87938f-58d2-474a-9660-3e011273c85d.jpg)
+![Screenshot 2023-03-21 125338](https://user-images.githubusercontent.com/128414844/226541232-5362e6db-aeb7-4e8d-83ef-5fb1a4556c8b.png)
 
-LED is ON:
-
-![IMG-20230314-WA0009 (2)](https://user-images.githubusercontent.com/128414844/226513634-74a3ae00-ad4c-453e-9d3f-abef15d7bd55.jpg)
 
 ## Result :
 
